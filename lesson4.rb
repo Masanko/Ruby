@@ -1,0 +1,2 @@
+name="まさき"
+puts name
